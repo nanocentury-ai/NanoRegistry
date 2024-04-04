@@ -3,3 +3,4 @@ uuid = "4c6d4eda-bf95-4084-b25d-7890bb3a48b4"
 repo = "git@github.com:nanocentury-ai/NanoRegistry.git"
 
 [packages]
+34c02352-c634-4dad-8e49-2b6a6cebc26b = { name = "ErcotMagic", path = "E/ErcotMagic" }
